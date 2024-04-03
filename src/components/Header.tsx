@@ -8,10 +8,10 @@ export default function Header(){
             <a className="navbar-brand" href="#">
                 <img
                     id="MDB-logo"
-                    src="https://mdbcdn.b-cdn.net/wp-content/uploads/2018/06/logo-mdb-jquery-small.png"
+                    src="../../public/images/logo_norsys.jpg"
                     alt="MDB Logo"
                     draggable="false"
-                    height="30"
+                    height="50"
                 />
             </a>
             <button
